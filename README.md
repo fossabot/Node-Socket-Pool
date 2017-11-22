@@ -1,4 +1,5 @@
 ## Node-Socket-Pool [![Build Status](https://travis-ci.org/thundernet8/Node-Socket-Pool.svg?branch=master)](https://travis-ci.org/thundernet8/Node-Socket-Pool)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthundernet8%2FNode-Socket-Pool.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthundernet8%2FNode-Socket-Pool?ref=badge_shield)
 
 Socket connection pool for Node
 
@@ -64,3 +65,6 @@ pool.returnResource(client);
 ```
 
 client will auto return to idle resource pool if no data transportation for a time up to maxIdleTime option
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthundernet8%2FNode-Socket-Pool.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthundernet8%2FNode-Socket-Pool?ref=badge_large)
